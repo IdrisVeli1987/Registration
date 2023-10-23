@@ -1,23 +1,3 @@
-// let userName = prompt('enter a user name');
-// let userAge = +prompt('enter a user age');
-
-//confirm = ф-ия, создающая всплывающее окно для выбора ДА или НЕТ. Возвращает true или false.
-
-//true = Логическое значение, обозначающее истину (правда, да, сигнал есть)
-//false = Логическое значение, обозначающее ложь (не правда, нет, сигнал отсутствует)
-
-// let userStudent = confirm('do user a student?')
-
-// if (userStudent === true) {
-//   console.log("пользователь студент");
-// } else {
-//   console.log("пользователь не студент");
-// }
-
-// let result = 12 > 6;
-// if(result===true){
-//     console.log('sert yerine yetirildi')
-// }
 
 // Mətn sahəsi
 function getInput(placeholder, type, claaName) {
